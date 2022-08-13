@@ -1,5 +1,7 @@
 # Guess my number
 
+Game live address: https://saitgungor-guess-my-number.netlify.app/
+
 The game generates a number between 1 and 20 and you must guess the number.
 
 You need to guess the secret number. If you find the correct number, you win :)
